@@ -1,5 +1,6 @@
+/* eslint-disable no-unused-vars */
 function Home() {
-  return <h1>"A persistência realiza o impossível. 😉"</h1>;
+  return <h1>{"A persistência realiza o impossível. 😉"}</h1>;
 }
 
 function teste() {
